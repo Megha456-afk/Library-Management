@@ -1,0 +1,14 @@
+INTRODUCTION
+     Library Management used to design and automate operations of Library
+
+PURPOSE
+  The main purpose of library management system is to provide the needed books for users
+
+SCOPE
+  This is used by the both civilians and proffesional ones
+
+FUNCTIONAL REQUIREMENTS
+Books availability
+Book storage
+Maintainance
+Book needs
